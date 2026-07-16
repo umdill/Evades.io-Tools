@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 // ===== your avg ingame ms change here =====
-const ms = 50; // turn on in settings if needed, avg ping change there <<
+const ms = 40; // turn on in settings if needed, avg ping change there <<
 // ===== this isnt obfuscated, you can add onto this all you want. =====
 (() => {
   "use strict";
