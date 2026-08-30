@@ -18,6 +18,7 @@ const csp=true; //if client sided prediction is on turn this on
 const pathfinding=true; //may lag game
 // do not change anything below if you do not know what you are doing
 
+
 (() => {
   "use strict";
   let t = false;
