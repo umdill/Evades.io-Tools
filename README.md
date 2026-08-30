@@ -1,3 +1,5 @@
+# Important
+Keybind to open tas menu ` , toggle tas is ESC.
 # Why?
 I made this project so I could show how easy it is to create a TAS (Tool Assisted Speedrun) BOT for Evades.io
 # Contact
