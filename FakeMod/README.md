@@ -12,7 +12,7 @@ so the staff ui renders.
 
 ## usage
 
-paste the script from [here](https://github.com/umdill/Evades.io-Tools/blob/main/FakeMod/main.js) into devtools console (ctrl+shift+j) on [Evades Moderation Tools](https://evades.io/moderation/tools)
+paste the script from [here](https://github.com/umdill/Evades.io-Tools/blob/main/FakeMod/site.js) into devtools console (ctrl+shift+j) on [Evades Moderation Tools](https://evades.io/moderation/tools)
 
 ## Notes
 
