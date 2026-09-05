@@ -1,6 +1,6 @@
 # FakeMod
 
-Loads mod ui in fullscreen
+loads mod ui in fullscreen
 
 it fakes:
 
