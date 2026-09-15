@@ -10,7 +10,7 @@ document.body.appendChild(boom);
 const w = boom.contentWindow;
 const d = boom.contentDocument; // BELOW will be changed on update and rebuild. will be fixed tho.
 d.write(`
-  <link rel="stylesheet" href="/moderatorTools.05ce238e.css"> 
+  <link rel="stylesheet" href="/moderatorTools.f0c8352c.css"> 
   <div id="app"></div>
 `);
 const f = w.fetch.bind(w);
@@ -27,5 +27,5 @@ w.fetch = async (input, init) => {
 };
 const script = d.createElement("script");
 script.type = "module";
-script.src = "/moderator_tools.cb9b573d.js";
+script.src = "/moderator_tools.c6d6b67e.js";
 d.body.appendChild(script);
